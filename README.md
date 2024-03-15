@@ -22,3 +22,8 @@
 2. friends of class <br/>
 3. start challenge(2h.) <br/>
 </p>
+<h4>03.15.2024</h4>
+<p>  
+1. challenge(2h.)DONE <br/>
+2. overloading operators <br/>
+</p>
